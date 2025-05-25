@@ -1,0 +1,22 @@
+[
+    {
+        "id": "country-1",
+        "label": "India",
+        "value": "India"
+    },
+    {
+        "id": "country-2",
+        "label": "United States",
+        "value": "United States"
+    },
+    {
+        "id": "country-3",
+        "label": "Canada",
+        "value": "Canada"
+    },
+    {
+        "id": "country-4",
+        "label": "Australia",
+        "value": "Australia"
+    }
+]
